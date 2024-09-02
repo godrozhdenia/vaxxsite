@@ -183,3 +183,18 @@ button{
         transform: translate(-100%, 0);
     }
 }
+.lore{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+.lore > button{
+    background-color: red;
+    font-family: serif;
+    border: 3px solid white;
+}
+.lore-button:hover{
+    border: 3px solid red;
+    cursor: pointer;
+}

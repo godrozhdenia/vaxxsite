@@ -14,3 +14,6 @@ function access(parameter){
         
     }
 }
+function lore(){
+    window.open('https://vaxx-marketvaccinesslegal.online/lore');
+}
